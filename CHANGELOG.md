@@ -1,3 +1,4 @@
+...
 ## What's Changed in v1.0.334
 * fix: update hl2sdk for patch 19602992 (Aug 14 2025) by [@switz](https://github.com/switz) in [#988](https://github.com/roflmuffin/CounterStrikeSharp/pull/988) ([f7c69a6](https://github.com/roflmuffin/CounterStrikeSharp/commit/f7c69a60bea983be132d27cedafd904679b6415c))
 
