@@ -10,6 +10,7 @@
  * the use of this software.
  *
  * This sample plugin is public domain.
+ 
  */
 
 #define VPROF_LEVEL 1
